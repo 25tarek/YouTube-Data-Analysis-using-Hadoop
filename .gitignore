@@ -1,0 +1,14 @@
+target/
+*.class
+*.jar
+
+.idea/
+.vscode/
+
+*.log
+pig_*.log
+
+scripts/demo/
+
+.DS_Store
+Thumbs.db

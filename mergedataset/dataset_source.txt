@@ -1,0 +1,16 @@
+Dataset: YouTube Trending Videos Stats 2026
+
+Source:
+https://www.kaggle.com/datasets/bsthere/youtube-trending-videos-stats-2026
+
+File used in this project:
+US_Trending.csv
+
+Raw records:
+16400
+
+Preprocessing:
+Java preprocessing was used to convert the raw CSV dataset into a tab-separated TSV file suitable for Hadoop MapReduce and Apache Pig.
+
+Final processed file:
+US_Trending_Clean.tsv
